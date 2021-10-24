@@ -32,25 +32,8 @@ I work with distributed systems as a fullstack developer and I'm always trying n
 - [AnimOwO](https://github.com/AlexJPereira/AnimOwO)
   
 #### 🤖 Automations
-- [Osu Map Downloader](https://github.com/AlexJPereira/osu-map-dl)
+- [Osu Favorites Downloader](https://github.com/AlexJPereira/osu-favorites-downloader)
 - [Pingu Discord Bot](https://github.com/AlexJPereira/pingu-discord-bot)
 
 #### 👨‍💻 Low-level programming
 - [Compilador Sloth](https://github.com/AlexJPereira/compilador-sloth)
-
-
-
-<!--
-**AlexJPereira/AlexJPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
