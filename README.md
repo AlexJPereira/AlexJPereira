@@ -24,12 +24,12 @@ I work with distributed systems as a fullstack developer and I'm always trying n
 
 ### ❤️ I'm also like 
 
-#### 🎮 Games
-- [Duck Bomb](https://github.com/AlexJPereira/duck-bomb)
-- [Endless BPS](https://github.com/AlexJPereira/endless-bps)
-  
 #### 📱 Apps
 - [AnimOwO](https://github.com/AlexJPereira/AnimOwO)
+  
+#### 🎮 Games
+- [Endless BPS](https://github.com/AlexJPereira/endless-bps)
+- [Duck Bomb](https://github.com/AlexJPereira/duck-bomb)
   
 #### 🤖 Automations
 - [Osu Favorites Downloader](https://github.com/AlexJPereira/osu-favorites-downloader)
