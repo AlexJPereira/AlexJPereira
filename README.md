@@ -1,9 +1,6 @@
 ## Hi, i'm Alex 👋 <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1e7-1f1f7.png" width="20">
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexjp17@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-jp/)
-
-I work with distributed systems as a fullstack developer and I'm always trying new things. Thanks for visiting and I'd love to [connect](https://github.com/AlexJPereira).
+I work with distributed systems as a fullstack developer and I'm always trying new things. Thanks for visiting.
 
 <div align="center">
   <a href="https://github.com/AlexJPereira">
@@ -20,20 +17,3 @@ I work with distributed systems as a fullstack developer and I'm always trying n
   ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  
-
-### ❤️ I'm also like 
-
-#### 📱 Apps
-- [AnimOwO](https://github.com/AlexJPereira/AnimOwO)
-  
-#### 🎮 Games
-- [Endless BPS](https://github.com/AlexJPereira/endless-bps)
-- [Duck Bomb](https://github.com/AlexJPereira/duck-bomb)
-  
-#### 🤖 Automations
-- [Osu Favorites Downloader](https://github.com/AlexJPereira/osu-favorites-downloader)
-- [Pingu Discord Bot](https://github.com/AlexJPereira/pingu-discord-bot)
-
-#### 👨‍💻 Low-level programming
-- [Compilador Sloth](https://github.com/AlexJPereira/compilador-sloth)
